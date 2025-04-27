@@ -1,5 +1,4 @@
-# The-Jedi-Toolkit
-Basic network essentials 
+
 # Jedi Security Toolkit
 
 Welcome to the **Jedi Security Toolkit** — a modular Python-based security toolkit created by **JediSecX**.
